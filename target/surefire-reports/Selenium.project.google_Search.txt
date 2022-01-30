@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Selenium.project.google_Search
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 35.816 s - in Selenium.project.google_Search

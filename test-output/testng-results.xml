@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17632" started-at="2022-01-30T23:21:36 IST" finished-at="2022-01-30T23:21:54 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17632" started-at="2022-01-30T23:21:36 IST" finished-at="2022-01-30T23:21:54 IST">
+      <class name="Selenium.project.google_Search">
+        <test-method status="PASS" signature="Test()[pri:0, instance:Selenium.project.google_Search@27a5f880]" name="Test" duration-ms="17586" started-at="2022-01-30T23:21:36 IST" finished-at="2022-01-30T23:21:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+      </class> <!-- Selenium.project.google_Search -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
